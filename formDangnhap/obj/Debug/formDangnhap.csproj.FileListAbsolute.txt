@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\bin\Debug\formDangnhap.exe.config
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\bin\Debug\formDangnhap.exe
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\bin\Debug\formDangnhap.pdb
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.formDangnhap.resources
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.Properties.Resources.resources
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.exe
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.pdb
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.formDatphong.resources
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.formDoimatkhau.resources
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.formQuanliphong.resources
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.formThanhtoan.resources
+C:\Users\ASUS\source\repos\formDangnhap\formDangnhap\obj\Debug\formDangnhap.formQuanlychung.resources
